@@ -2,17 +2,9 @@
 
 This repository contains the implementation of the GOTU framework for the ECE 570 Course Project (Spring 2025). The project explores the generalization capabilities of Transformer architectures on unseen domains and reimplements Degree Curriculum Learning.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Usage](#usage)
-  - [Training](#training)
-  - [Generating Figures](#generating-figures)
-- [Code Structure](#code-structure)
-- [References](#references)
-
 ## Overview
+
+[See the demo video here](https://drive.google.com/file/d/1iOuMvEazJn0NulrlIaCbfFgfh3_S5ym_/view?usp=sharing)
 
 The GOTU framework is designed to:
 1. **Prove the minimum-degree bias** of Transformer architectures.
